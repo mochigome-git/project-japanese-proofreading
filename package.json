@@ -31,7 +31,8 @@
     "onLanguage:latex",
     "onLanguage:review",
     "onLanguage:markdown",
-    "onLanguage:plaintext"
+    "onLanguage:plaintext",
+    "onLanguage:novel"
   ],
   "main": "./out/extension",
   "contributes": {
