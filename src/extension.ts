@@ -28,6 +28,7 @@ export const activate = (context: ExtensionContext) => {
       { scheme: "file", language: "review" },
       { scheme: "file", language: "plaintext" },
       { scheme: "file", language: "markdown" },
+      { scheme: "file", language: "novel" },
     ],
     synchronize: {
       // Notify the server about file changes to '.clientrc files contain in the workspace
